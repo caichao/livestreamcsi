@@ -38,11 +38,11 @@ Place this file under "netlink" folder.
 You should first run the server code. That is, excute "realtime_plot.m" first. Then run the log program "sudo ./log". If it is ok, you can see some print logs like "connect is ok". 
 Noted that the basic steps to enable CSI can be done before or after these steps. 
 
-If you encounter any problem, you can contact me at chao08@gmail.com.  I hope some one can make some awesome UI and share it in the community. 
+If you encounter any problem, you can contact me at caichao08@gmail.com.  I hope some one can make some awesome UI and share it in the community. 
 
 MIT License
 
-Copyright (c) 2017 Chao Cai chao08@gmail.com
+Copyright (c) 2017 Chao Cai caichao08@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
