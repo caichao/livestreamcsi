@@ -1,6 +1,6 @@
 %MIT License
 
-%Copyright (c) 2017 Chao Cai chao08@gmail.com
+%Copyright (c) 2017 Chao Cai caichao08@gmail.com
 
 %Permission is hereby granted, free of charge, to any person obtaining a copy
 %of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,8 @@ clc;clear all;
 close all;
 close all hidden;
 %about tcp protocol
-bufferLen = 393+2;% 
+% the following buffer size related to two Tx antennas, if there is only one Tx antenna, this should be 213+2
+bufferLen = 393+2; 
 TCPServer = tcpip('localhost',1234,'NetworkRole','server');
 set(TCPServer,'InputBufferSize',bufferLen);
 %set(TCPServer,'Terminator','#');

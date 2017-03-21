@@ -1,6 +1,6 @@
 %MIT License
 
-%Copyright (c) 2017 Chao Cai chao08@gmail.com
+%Copyright (c) 2017 Chao Cai caichao08@gmail.com
 
 %Permission is hereby granted, free of charge, to any person obtaining a copy
 %of this software and associated documentation files (the "Software"), to deal
